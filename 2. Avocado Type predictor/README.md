@@ -1,4 +1,4 @@
-# Streamlit - Avocado Type Predictor
+# Streamlit - Avocado Price Predictor
 
 In this project I used this [dataset](https://www.kaggle.com/datasets/neuromusic/avocado-prices) that is meandt to use it to make machine learning models. 
 
