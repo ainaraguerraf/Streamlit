@@ -11,3 +11,5 @@ I created a Price predictor of the avocado depending of the type of the avocado 
 - I created the predictor using the Streamlit library.
 
 The front-end result is as follows:
+
+![Avocado_predictor_with_results](https://github.com/ainaraguerraf/Streamlit/assets/115892160/cec846cd-4cce-48d7-bb8e-fc7e4d70f95b)
