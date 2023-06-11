@@ -12,3 +12,4 @@ I created a predictor of the Iris flower depending of some factors.
 - I created the predictor using the Streamlit library.
 
 The front-end result is as follows:
+![iris_finder_results](https://github.com/ainaraguerraf/Streamlit/assets/115892160/9e6eaade-c4ec-4711-8bae-5eea868f2dfc)
