@@ -1,6 +1,6 @@
 # Streamlit - Avocado Price Predictor
 
-In this project I used this [dataset](https://www.kaggle.com/datasets/neuromusic/avocado-prices) that is meandt to use it to make machine learning models. 
+In this project I used this [dataset](https://www.kaggle.com/datasets/neuromusic/avocado-prices) that is meant to use it to make machine learning models. 
 
 I created a Price predictor of the avocado depending of the type of the avocado and the region. 
 #### How did I do it?
